@@ -1,9 +1,3 @@
-// Name: Michael Provenzano
-// Course: CIS 006 Intro to programming 
-// CRN: 44574 
-// Date: 10/7/2020
-// Assignment: PokerHand
-
 #include "PokerHand.h"
 
 bool  containsPair(int hand[])
